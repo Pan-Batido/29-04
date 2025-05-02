@@ -20,6 +20,6 @@ clave=int(input("ingrese clave secreta:"))
 
 while clave_1==clave and usuario_1==usuario:
     print('''1.-5000   2.-10000
-          3.-15000   4.-20000
-          4.-25000   5.-30000''')
+          3.-15000   4.-20000''')
     plata=int(input("ingrese retiro"))
+    if plata
