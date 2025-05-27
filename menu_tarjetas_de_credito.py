@@ -1,4 +1,4 @@
-import os,sys
+#import os,sys
 while True:
     while True:
         try:
@@ -13,11 +13,13 @@ while True:
             print("solo numeros enteros")
     match op:
         case 1:
-            print()
+            print("1")
         case 2:
+            print("2")
         case 3:
             print("saliendo")
             break
         case _:
             print("opcion invalida")
-            
+        
+
